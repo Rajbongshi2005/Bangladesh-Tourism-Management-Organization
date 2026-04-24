@@ -229,7 +229,8 @@ If you like this project:
 ## 👨‍💻 Author
 
 **Tushar Raj**
-CSE Student | Passionate Developer
+**Durjoy Sarker**
+CSE Students
 
 ---
 
